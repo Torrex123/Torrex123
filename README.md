@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there 👋 I´m @Torrex123
 
-<!--
-**Torrex123/Torrex123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently a Systems Engineering student, where I'm deepening my knowledge in **Data Mining** and **Compiler Design**. My passion lies in **Backend Development** and **Model Building**.
 
-Here are some ideas to get you started:
+### 🚀 What I'm Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently expanding my expertise in **data mining concepts** and **compiler models**, diving into the world of big data and advanced processing techniques.
+
+### 🤝 Let’s Collaborate
+
+I'm open to collaborating on backend-focused projects, data analysis, and any projects involving **interactive web applications** or **model-driven development**. Feel free to reach out if you have an interesting project in mind or if you want to share knowledge!
+
+### 📫 How to Reach Me
+
+- **Email**: [edgarat@uninorte.edu.co](mailto:edgarat@uninorte.edu.co)
+ 
+---
+
+
